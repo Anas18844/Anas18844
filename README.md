@@ -142,7 +142,7 @@ class AnasAhmed:
 
 ## 🏆 Featured Projects
 
-### 🏛️ [The Ancient Egyptian Museum (TAEM)](https://github.com/Anas18844)
+### 🏛️ [The Ancient Egyptian Museum (TAEM)](https://github.com/Anas18844/Formal_TAEM)
 **Feb 2025 - May 2025** | Team Lead & System Architect
 
 Large-scale museum management system simulating the Grand Egyptian Museum operations.
@@ -165,7 +165,7 @@ Large-scale museum management system simulating the Grand Egyptian Museum operat
 
 ---
 
-### 🎉 [Event Sphere](https://github.com/Anas18844)
+### 🎉 [Event Sphere](https://github.com/Anas18844/Event_Sphere)
 **Oct 2024 - Dec 2024** | Full Stack Developer & Team Lead
 
 Complete event management platform with multi-step ticket booking system.
@@ -182,7 +182,7 @@ Complete event management platform with multi-step ticket booking system.
 
 ---
 
-### ⚡ [Electricity Billing System](https://github.com/Anas18844)
+### ⚡ [Electricity Billing System](https://github.com/Anas18844/Electricity_Billing_System)
 **Nov 2024 - Jan 2025** | Java Developer
 
 Enterprise-grade billing system with role-based access control.
@@ -230,31 +230,6 @@ Enterprise-grade billing system with role-based access control.
 
 ---
 
-## 👥 Leadership & Community
-
-### 🎓 Microsoft Student Tech Club (MSP) - Helwan University
-**Head of Web Development Team** | 2024-2025
-- Leading and mentoring university students on modern web technologies
-- Delivering technical sessions on front-end and back-end frameworks
-- Bridging the gap between academic learning and industry skills
-- Organizing workshops and real-world project collaborations
-
-### 💙 Resala Charity Association
-**Programming Instructor** | Helwan Branch | 2023-2024
-- Taught programming to 400+ students from underprivileged backgrounds
-- Organized community outreach and donation drives
-- Distributed aid to families in need
-- Enhanced organizational and teamwork skills while making positive community impact
-
-### 🏆 ECPC Technical Volunteer
-**Technical Committee Member**
-- Supported organization of regional competitive programming contest
-- Set up contest environments and tested problems
-- Ensured smooth competition experience
-- Maintained contest quality and fairness
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -280,14 +255,6 @@ Enterprise-grade billing system with role-based access control.
 </picture>
 
 </div>
-
----
-
-## 💬 Languages
-
-- 🇸🇦 **Arabic** - Native
-- 🇬🇧 **English** - C1 (Advanced)
-- 🇹🇷 **Turkish** - Conversational
 
 ---
 
