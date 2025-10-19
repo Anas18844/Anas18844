@@ -1,38 +1,317 @@
-<h1>Hi 👋, I'm  Anas </h1>
-<p>"Full-Stack Software Developer specializing in designing and building innovative, efficient, and user-focused web solutions. Passionate about delivering high-quality applications and solving complex technical challenges."</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="">Passionate Full-Stack Developer with expertise in designing and building web applications. Experienced in freelancing, team leadership, and managing large-scale projects using Agile methodologies and tools like Jira. As a second-year Computer and AI student at Helwan University (GPA 3.5), I combine academic excellence with practical skills. Proficient in C, C++, Java, C#, .NET, and Angular, with certifications from IBM, Udemy, and Manara. A competitive programmer (ICPC, Codeforces) driven by challenges, teamwork, and continuous learning, aspiring to excel as a software engineer and make a meaningful impact in the tech industry .</a></li>
-<h2>⚡️ Where to find me</h2>
+<div align="center">
 
-  <picture>
+# Hi 👋, I'm Anas Ahmed
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Head+of+GenAI;Full+Stack+Developer;Competitive+Programmer;2x+ECPC+Finalist" alt="Typing SVG" />
+
+### 🚀 Leading AI Transformation at iTech Solutions
+
+**AI Engineer & Head of Generative AI Department** | Building intelligent business systems powered by AI Agents, Python, and automation to transform enterprises from digital to intelligent.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-ahmed-%F0%9F%8D%89-1805a7243/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spaniol188@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas18844)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+```python
+class AnasAhmed:
+    def __init__(self):
+        self.role = "Head of Generative AI Department"
+        self.company = "iTech Solutions"
+        self.education = {
+            "degree": "B.Sc. in Artificial Intelligence",
+            "university": "Helwan University",
+            "gpa": 3.5,
+            "major": "AI"
+        }
+        self.achievements = [
+            "2x ECPC Finalist (2024, 2025)",
+            "ACPC Kickoff Participant",
+            "Microsoft Dev Center Intern",
+            "Mentored 400+ Students"
+        ]
+        self.passion = "Building intelligent systems that transform businesses"
+
+    def current_focus(self):
+        return [
+            "Leading GenAI initiatives",
+            "Building AI Agent architectures",
+            "Automating business processes",
+            "Competitive Programming"
+        ]
+```
+
+- 🎓 **AI Major** at Helwan University (GPA 3.5)
+- 🤖 **Head of GenAI** at iTech Solutions - Leading intelligent business transformation
+- 🏆 **2x ECPC Finalist** - Competitive programmer on Codeforces & LeetCode
+- 💼 **Former Microsoft Intern** - Full Stack Development training
+- 👨‍🏫 **Mentor & Leader** - Head of Web Dev Team at MSP, taught 400+ students
+- 🎯 **Specialized in**: Generative AI, LangChain, AI Agents, Full Stack (.NET, Angular), System Design
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Head of Generative AI Department | iTech Solutions
+**2025 - Present**
+- 🎯 Initiated and led the GenAI vision, establishing new department from ground up
+- 👥 Managing cross-functional teams building intelligent business systems
+- 🤖 Architecting solutions with AI Agents, Python, and automation
+- 📊 Driving enterprises from digital to intelligent transformation
+
+### 💻 Full Stack Developer Intern | Microsoft Egypt Dev Center
+**May 2025 - Aug 2025**
+- 🏢 Intensive training under Microsoft engineers' supervision
+- 🛠️ Mastered .NET Framework, Database Design, OOP, Design Patterns, Containers
+- 🏗️ Explored MVC architecture and software scalability techniques
+- 🔬 Real-world experience through practical labs and collaborative development
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Generative AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Specialized Skills:**
+- Generative AI & LLM Integration
+- AI Agents & Intelligent Systems
+- RAG (Retrieval Augmented Generation)
+- Vector Databases & Embeddings
+- Prompt Engineering & Context Engineering
+- Automation Systems & Workflows
+
+### 💻 Backend Development
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Technologies:**
+- ASP.NET Core (MVC / Web API)
+- Entity Framework Core
+- RESTful APIs & LINQ
+- Identity Framework
+- Microsoft SQL Server
+- MySQL & Database Design
+
+### 🎨 Frontend Development
+![Angular](https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 📚 Core Knowledge
+- Data Structures & Algorithms
+- Design Patterns & Clean Architecture
+- Microservices (Basics)
+- OOP Principles & SOLID
+- Database Normalization
+- System Design
+- Competitive Programming
+
+---
+
+## 🏆 Featured Projects
+
+### 🏛️ [The Ancient Egyptian Museum (TAEM)](https://github.com/Anas18844)
+**Feb 2025 - May 2025** | Team Lead & System Architect
+
+Large-scale museum management system simulating the Grand Egyptian Museum operations.
+
+**Key Features:**
+- 📦 Artifact cataloging & exhibition management
+- 💳 Online booking & payment processing
+- 👥 User & role management system
+- 🎫 Memberships & donations module
+- 📝 Complete content management system
+
+**Technical Highlights:**
+- Designed system architecture & database (67+ UML diagrams)
+- Implemented modern design patterns
+- Responsive UI/UX with modern frameworks
+- Led team using Agile methodology
+- Ensured scalability, security, and modularity
+
+**Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, Angular, Bootstrap
+
+---
+
+### 🎉 [Event Sphere](https://github.com/Anas18844)
+**Oct 2024 - Dec 2024** | Full Stack Developer & Team Lead
+
+Complete event management platform with multi-step ticket booking system.
+
+**Technical Achievements:**
+- ✅ Completed error-free in half the estimated time
+- 🏗️ Applied SOLID principles for clean architecture
+- 🔐 Authentication via Identity Framework
+- ⚡ Optimized queries with LINQ
+- 📱 Responsive design with Bootstrap
+- 🎯 High user satisfaction rating
+
+**Tech Stack:** ASP.NET Core (MVC + Web API), EF Core, SQL Server, HTML/CSS/JS
+
+---
+
+### ⚡ [Electricity Billing System](https://github.com/Anas18844)
+**Nov 2024 - Jan 2025** | Java Developer
+
+Enterprise-grade billing system with role-based access control.
+
+**Features:**
+- 👤 Role-based access (Customers, Admins, Managers)
+- 🗄️ File-based secure data management
+- 🤖 Automated billing and reporting
+- 🎨 Modern JavaFX interface
+- 📊 Core OOP principles for modularity
+
+**Tech Stack:** Java, JavaFX, File-based Database
+
+---
+
+## 🎓 Certifications & Courses
+
+### 🤖 AI & Automation
+- **n8n Course: No Code AI Agent Builder** - AI Agents, Self-Hosted, Ollama Integration
+- **ChatGPT Prompt Engineering for Developers** - DeepLearning.ai
+- **Claude Code: A Highly Agentic Coding Assistant**
+
+### 💻 Development
+- **Complete C# Masterclass** - Udemy (.NET, OOP, LINQ, WPF, Generics, Unit Testing)
+- **HarvardX: CS50's Introduction to Computer Science** - C, Python, Algorithms, SQL, Linux
+- **Mastering critical SKILLS for Coding Interviews C++: Part 1**
+- **Google Project Management Course**
+
+### 🏢 Professional Training
+- **Microsoft Egypt Dev Center** - Full Stack Development Intensive Program
+- **DEPI, IBM, Udemy** - Multiple AI & Development Certifications
+
+---
+
+## 🏆 Awards & Achievements
+
+| Year | Achievement | Organization |
+|------|-------------|--------------|
+| 🥇 **2025** | **ECPC Finalist 2025** | Egyptian Collegiate Programming Contest & ICPC Foundation |
+| 🎯 **2025** | **ACPC Kickoff Participant** | ICPC - International Collegiate Programming Contest |
+| 🥇 **2024** | **ECPC Finalist 2024** | Egyptian Collegiate Programming Contest & ICPC Foundation |
+| 👨‍💼 **2024-2025** | **Head of Web Development Team** | Microsoft Student Tech Club (MSP) - Helwan University |
+| 🤝 **2023-2024** | **Programming Instructor** | Resala Charity - Helwan Branch (400+ students mentored) |
+| 🛠️ **2025** | **Technical Committee Member** | ECPC - Egyptian Collegiate Programming Contest |
+
+---
+
+## 👥 Leadership & Community
+
+### 🎓 Microsoft Student Tech Club (MSP) - Helwan University
+**Head of Web Development Team** | 2024-2025
+- Leading and mentoring university students on modern web technologies
+- Delivering technical sessions on front-end and back-end frameworks
+- Bridging the gap between academic learning and industry skills
+- Organizing workshops and real-world project collaborations
+
+### 💙 Resala Charity Association
+**Programming Instructor** | Helwan Branch | 2023-2024
+- Taught programming to 400+ students from underprivileged backgrounds
+- Organized community outreach and donation drives
+- Distributed aid to families in need
+- Enhanced organizational and teamwork skills while making positive community impact
+
+### 🏆 ECPC Technical Volunteer
+**Technical Committee Member**
+- Supported organization of regional competitive programming contest
+- Set up contest environments and tested problems
+- Ensured smooth competition experience
+- Maintained contest quality and fairness
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anas18844&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas18844&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anas18844&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anas18844&theme=tokyonight&no-frame=true&no-bg=true&column=4&title=Commits,Repositories,Stars,Followers" alt="GitHub Trophy" height="170"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas18844/Anas18844/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas18844/Anas18844/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Anas18844/Anas18844/output/github-snake.svg" />
 </picture>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/anas-ahmed-%F0%9F%8D%89-1805a7243/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anas18844&show_icons=true&locale=en" alt="Anas18844" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anas18844&" alt="Anas18844" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anas18844&show_icons=true&locale=en&layout=compact" alt="Anas18844" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anas18844" alt="Anas18844" /></a></p>
+
+</div>
+
+---
+
+## 💬 Languages
+
+- 🇸🇦 **Arabic** - Native
+- 🇬🇧 **English** - C1 (Advanced)
+- 🇹🇷 **Turkish** - Conversational
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on innovative projects, or just having a chat about AI, software development, or competitive programming!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-ahmed-%F0%9F%8D%89-1805a7243/)
+[![Email](https://img.shields.io/badge/Email-spaniol188@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spaniol188@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas18844)
+[![Phone](https://img.shields.io/badge/Phone-01018844656-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201018844656)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building intelligent systems that transform businesses from digital to intelligent"
+
+**Currently available for freelance projects and consulting opportunities in AI/GenAI**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anas18844&color=3B82F6&style=for-the-badge)
+
+</div>
