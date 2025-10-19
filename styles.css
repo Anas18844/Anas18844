@@ -566,10 +566,9 @@ a {
 }
 
 .about-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4rem;
-    align-items: start;
+    display: block;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .about-card {

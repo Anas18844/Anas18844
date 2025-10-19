@@ -20,34 +20,6 @@
 
 ## 🎯 About Me
 
-```python
-class AnasAhmed:
-    def __init__(self):
-        self.role = "Head of Generative AI Department"
-        self.company = "iTech Solutions"
-        self.education = {
-            "degree": "B.Sc. in Artificial Intelligence",
-            "university": "Helwan University",
-            "gpa": 3.5,
-            "major": "AI"
-        }
-        self.achievements = [
-            "2x ECPC Finalist (2024, 2025)",
-            "ACPC Kickoff Participant",
-            "Microsoft Dev Center Intern",
-            "Mentored 400+ Students"
-        ]
-        self.passion = "Building intelligent systems that transform businesses"
-
-    def current_focus(self):
-        return [
-            "Leading GenAI initiatives",
-            "Building AI Agent architectures",
-            "Automating business processes",
-            "Competitive Programming"
-        ]
-```
-
 - 🎓 **AI Major** at Helwan University (GPA 3.5)
 - 🤖 **Head of GenAI** at iTech Solutions - Leading intelligent business transformation
 - 🏆 **2x ECPC Finalist** - Competitive programmer on Codeforces & LeetCode
